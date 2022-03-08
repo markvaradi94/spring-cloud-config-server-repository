@@ -1,8 +1,8 @@
+server:
+  port: 8283
+
 elastic-query-service:
   backPressure-delay-ms: 500
-
-server:
-  port: 8183
 
 elastic-config:
   index-name: twitter-index
