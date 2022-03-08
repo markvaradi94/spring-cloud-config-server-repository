@@ -3,7 +3,7 @@ server:
 
 twitter-to-kafka-service:
   twitter-keywords:
-    - Buckethead
+    - 'Buckethead'
     - 'Pink Floyd'
     - 'Leonard Cohen'
     - 'Iron Maiden'
